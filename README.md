@@ -7,7 +7,7 @@ This repository contains the resources used during the workshop, including the p
 ## 📁 Repository Contents
 
 ```
-HECK-ADEMY-26-RESOURCES
+HACK-ADEMY-26-RESOURCES
 ├── slides
 ├── problem-statement
 └── prompt-engineering
